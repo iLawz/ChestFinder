@@ -28,7 +28,6 @@ public class ChestUtils {
                 	if(location.getWorld().getBlockAt(x,y,z).getType() == Material.CHEST) {
                 		chests.add(location.getWorld().getBlockAt(x, y, z));
                 	}
-                	
                 }
             }
         }

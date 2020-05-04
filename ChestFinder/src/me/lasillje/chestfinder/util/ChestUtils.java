@@ -45,6 +45,4 @@ public class ChestUtils {
 		String output = ChatColor.DARK_GRAY + "[" + color + Integer.toString(num) + ChatColor.DARK_GRAY + "]";
 		return output;
 	}
-	
-	
 }
